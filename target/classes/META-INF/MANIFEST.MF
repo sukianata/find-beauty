@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: find-beauty
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.example
+Build-Jdk: 1.7.0_45
+Built-By: H2605718
+Created-By: Maven Integration for Eclipse
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/find-beauty
+
